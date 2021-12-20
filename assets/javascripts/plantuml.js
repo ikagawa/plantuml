@@ -15,6 +15,4 @@ if (typeof(jsToolBar) != 'undefined') {
             }
         }
     }
-} else {
-    throw 'could not add plantUML button to Toolbar. jsToolbar is undefined';
 }
